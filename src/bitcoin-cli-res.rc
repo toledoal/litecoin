@@ -16,14 +16,14 @@ BEGIN
     BEGIN
         BLOCK "040904E4" // U.S. English - multilingual (hex)
         BEGIN
-            VALUE "CompanyName",        "Litecoin"
-            VALUE "FileDescription",    "litecoin-cli (JSON-RPC client for " PACKAGE_NAME ")"
+            VALUE "CompanyName",        "Runencoin"
+            VALUE "FileDescription",    "runencoin-cli (JSON-RPC client for " PACKAGE_NAME ")"
             VALUE "FileVersion",        VER_FILEVERSION_STR
-            VALUE "InternalName",       "litecoin-cli"
+            VALUE "InternalName",       "runencoin-cli"
             VALUE "LegalCopyright",     COPYRIGHT_STR
             VALUE "LegalTrademarks1",   "Distributed under the MIT software license, see the accompanying file COPYING or http://www.opensource.org/licenses/mit-license.php."
-            VALUE "OriginalFilename",   "litecoin-cli.exe"
-            VALUE "ProductName",        "litecoin-cli"
+            VALUE "OriginalFilename",   "runencoin-cli.exe"
+            VALUE "ProductName",        "runencoin-cli"
             VALUE "ProductVersion",     VER_PRODUCTVERSION_STR
         END
     END

@@ -130,8 +130,8 @@
         <translation>Промени &amp;лозинку...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Пошаљите новац на litecoin адресу</translation>
+        <source>Send coins to a Runencoin address</source>
+        <translation>Пошаљите новац на runencoin адресу</translation>
     </message>
     <message>
         <source>Change the passphrase used for wallet encryption</source>
