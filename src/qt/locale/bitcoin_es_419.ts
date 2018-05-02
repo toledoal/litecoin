@@ -27,11 +27,11 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>Seleccione la dirección a la que enviará las monedas</translation>
+        <translation>Seleccione la dirección a la que enviará las Monedas</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>Seleccione la dirección con la que recibirá las monedas</translation>
+        <translation>Seleccione la dirección con la que recibirá las Monedas</translation>
     </message>
     <message>
         <source>Sending addresses</source>
@@ -42,8 +42,8 @@
         <translation>Recibiendo direcciones</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son sus direcciones de Litecoin para enviar sus pagos. Siempre revise el monto y la dirección recibida antes de enviar monedas.</translation>
+        <source>These are your Moneda addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son sus direcciones de Moneda para enviar sus pagos. Siempre revise el monto y la dirección recibida antes de enviar Monedas.</translation>
     </message>
     </context>
 <context>

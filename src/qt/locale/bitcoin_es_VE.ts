@@ -43,7 +43,7 @@
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>Elige la dirección para recibir monedas</translation>
+        <translation>Elige la dirección para recibir Monedas</translation>
     </message>
     <message>
         <source>Sending addresses</source>
@@ -142,8 +142,8 @@
         <translation>Reindexando bloques en el disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Enviar monedas a una dirección Litecoin</translation>
+        <source>Send coins to a Moneda address</source>
+        <translation>Enviar Monedas a una dirección Moneda</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -158,8 +158,8 @@
         <translation>Abre la consola de depuración y diágnostico</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>Moneda</source>
+        <translation>Moneda</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -186,12 +186,12 @@
         <translation>Encriptar las llaves privadas que pertenecen a tu billetera</translation>
     </message>
     <message>
-        <source>Sign messages with your Litecoin addresses to prove you own them</source>
-        <translation>Firma mensajes con tus direcciones Litecoin para probar que eres dueño de ellas</translation>
+        <source>Sign messages with your Moneda addresses to prove you own them</source>
+        <translation>Firma mensajes con tus direcciones Moneda para probar que eres dueño de ellas</translation>
     </message>
     <message>
-        <source>Verify messages to ensure they were signed with specified Litecoin addresses</source>
-        <translation>Verificar mensajes para asegurar que estaban firmados con direcciones Litecoin especificas</translation>
+        <source>Verify messages to ensure they were signed with specified Moneda addresses</source>
+        <translation>Verificar mensajes para asegurar que estaban firmados con direcciones Moneda especificas</translation>
     </message>
     <message>
         <source>&amp;File</source>
@@ -258,7 +258,7 @@
     <name>CoinControlDialog</name>
     <message>
         <source>Coin Selection</source>
-        <translation>Selección de moneda</translation>
+        <translation>Selección de Moneda</translation>
     </message>
     <message>
         <source>Quantity:</source>
@@ -437,8 +437,8 @@
         <translation>Usa un directorio de datos personalizado:</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>Moneda</source>
+        <translation>Moneda</translation>
     </message>
     <message>
         <source>Error: Specified data directory "%1" cannot be created.</source>
@@ -708,8 +708,8 @@
         <translation>Correr en segundo plano como daemon y aceptar comandos</translation>
     </message>
     <message>
-        <source>Litecoin Core</source>
-        <translation>Litecoin Core</translation>
+        <source>Moneda Core</source>
+        <translation>Moneda Core</translation>
     </message>
     <message>
         <source>Bind to given address and always listen on it. Use [host]:port notation for IPv6</source>

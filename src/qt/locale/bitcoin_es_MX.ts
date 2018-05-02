@@ -43,11 +43,11 @@
     </message>
     <message>
         <source>Choose the address to send coins to</source>
-        <translation>Elija la direccion a donde se enviaran las monedas</translation>
+        <translation>Elija la direccion a donde se enviaran las Monedas</translation>
     </message>
     <message>
         <source>Choose the address to receive coins with</source>
-        <translation>Elija la dirección para recibir monedas.</translation>
+        <translation>Elija la dirección para recibir Monedas.</translation>
     </message>
     <message>
         <source>C&amp;hoose</source>
@@ -62,8 +62,8 @@
         <translation>Direcciones de recibo</translation>
     </message>
     <message>
-        <source>These are your Litecoin addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Estas son tus direcciones de Litecoin para enviar pagos. Siempre revisa el monto y la dirección de envío antes de enviar monedas.</translation>
+        <source>These are your Moneda addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
+        <translation>Estas son tus direcciones de Moneda para enviar pagos. Siempre revisa el monto y la dirección de envío antes de enviar Monedas.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
@@ -178,8 +178,8 @@
         <translation>Reindexando bloques en el disco...</translation>
     </message>
     <message>
-        <source>Send coins to a Litecoin address</source>
-        <translation>Enviar monedas a una dirección Litecoin</translation>
+        <source>Send coins to a Moneda address</source>
+        <translation>Enviar Monedas a una dirección Moneda</translation>
     </message>
     <message>
         <source>Backup wallet to another location</source>
@@ -202,8 +202,8 @@
         <translation>&amp;Verificar mensaje...</translation>
     </message>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>Moneda</source>
+        <translation>Moneda</translation>
     </message>
     <message>
         <source>Wallet</source>
@@ -365,8 +365,8 @@
 <context>
     <name>Intro</name>
     <message>
-        <source>Litecoin</source>
-        <translation>Litecoin</translation>
+        <source>Moneda</source>
+        <translation>Moneda</translation>
     </message>
     <message>
         <source>Error</source>
@@ -458,8 +458,8 @@
         <translation>Mensaje:</translation>
     </message>
     <message>
-        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Litecoin network.</source>
-        <translation>Mensaje opcional para agregar a la solicitud de pago, el cual será mostrado cuando la solicitud este abierta. Nota: El mensaje no se manda con el pago a travéz de la red de Litecoin.</translation>
+        <source>An optional message to attach to the payment request, which will be displayed when the request is opened. Note: The message will not be sent with the payment over the Moneda network.</source>
+        <translation>Mensaje opcional para agregar a la solicitud de pago, el cual será mostrado cuando la solicitud este abierta. Nota: El mensaje no se manda con el pago a travéz de la red de Moneda.</translation>
     </message>
     <message>
         <source>Use this form to request payments. All fields are &lt;b&gt;optional&lt;/b&gt;.</source>
@@ -484,7 +484,7 @@
     <name>SendCoinsDialog</name>
     <message>
         <source>Send Coins</source>
-        <translation>Enviar monedas</translation>
+        <translation>Enviar Monedas</translation>
     </message>
     <message>
         <source>Quantity:</source>
@@ -627,7 +627,7 @@
     <name>WalletModel</name>
     <message>
         <source>Send Coins</source>
-        <translation>Enviar monedas</translation>
+        <translation>Enviar Monedas</translation>
     </message>
     </context>
 <context>
@@ -644,8 +644,8 @@
         <translation>Opciones:</translation>
     </message>
     <message>
-        <source>Litecoin Core</source>
-        <translation>nucleo Litecoin</translation>
+        <source>Moneda Core</source>
+        <translation>nucleo Moneda</translation>
     </message>
     <message>
         <source>&lt;category&gt; can be:</source>
