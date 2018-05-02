@@ -42,11 +42,11 @@ reachable from the Tor network. Add these lines to your /etc/tor/torrc (or equiv
 config file):
 
 	HiddenServiceDir /var/lib/tor/moneda-service/
-	HiddenServicePort 9333 127.0.0.1:9333
+	HiddenServicePort 9677 127.0.0.1:9677
 	HiddenServicePort 19335 127.0.0.1:19335
 
 The directory can be different of course, but (both) port numbers should be equal to
-your monedad's P2P listen port (9333 by default).
+your monedad's P2P listen port (9677 by default).
 
 	-externalip=X   You can tell moneda about its publicly reachable address using
 	                this option, and this can be a .onion address. Given the above
@@ -81,7 +81,7 @@ as well, use `discover` instead:
 
 	./monedad ... -discover
 
-and open port 9333 on your firewall (or use -upnp).
+and open port 9677 on your firewall (or use -upnp).
 
 If you only want to use Tor to reach onion addresses, but not use it as a proxy
 for normal IPv4/IPv6 communication, use:
