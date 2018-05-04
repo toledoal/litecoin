@@ -1,0 +1,24 @@
+
+version: '3'
+services:
+  miner:
+    build: .
+    ports:
+      - "4000:9677"
+    expose:
+      - "9677"
+    command: [ "monedad", "-addnode=node1:9677", "-addnode=node2:9677"]
+  node1:
+    build: .
+    ports:
+      - "4001:9677"
+    expose:
+      - "9677"
+    command: [ "monedad", "-addnode=miner:9677", "-addnode=node2:9677"]
+  node2:
+    build: .
+    ports:
+      - "4002:9677"
+    expose:
+      - "9677"
+    command: [ "monedad", "-addnode=node1:9677", "-addnode=miner:9677"]

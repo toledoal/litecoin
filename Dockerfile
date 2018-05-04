@@ -15,7 +15,7 @@ RUN apt-get install -y libdb4.8-dev libdb4.8++-dev
 RUN apt-get install -y libminiupnpc-dev
 #ZMQ
 RUN apt-get install -y libzmq3-dev
-#build faithcoin source
+#build moneda source
 RUN ./autogen.sh
 RUN ./configure
 RUN make
